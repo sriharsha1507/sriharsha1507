@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Sri Harsha Pothineni</h1>
 <h3 align="center">A passionate Android developer 🤖</h3>
 
-- 🔭 I’m currently working on **building my Youtube channel**
+- 🔭 I’m currently working on **providing best android practices through my pet projects**
 
-- 👯 I’m looking to collaborate on **Youtube**
+- 👯 I’m helping out people on Android **Slack and Discord channels**. See you all over there.
 
 - 🤝 I’m looking for help with **best architecture using Jetpack compose**
 

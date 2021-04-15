@@ -1,7 +1,7 @@
 <!--
 **sriharsha1507/sriharsha1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm Sri Harsha Pothineni</h1>
+# Hi 👋, I'm [Sri Harsha Pothineni](https://shreyaspatil.dev) 🙋‍♂️
 <h3 align="center">A passionate Android developer 🤖</h3>
 
 
